@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPEEDCALCULATOR</string>
+    <string name="editTextNumber3" translatable="false">กรอกเวลา ( วินาที )</string>
+    <string name="button" translatable="false">ล้าง</string>
+    <string name="button2" translatable="false">คำนวณ</string>
+    <string name="textView3" translatable="false">ความเร็วเฉลี่ย ( กม./ชม. )</string>
+    <string name="edt1" translatable="false">กรอกระยะทาง ( เมตร )</string>
+</resources>

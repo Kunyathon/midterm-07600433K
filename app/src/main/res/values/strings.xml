@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SPEEDCALCULATOR</string>
+    <string name="editTextNumber3"> Enter time (second)</string>
+    <string name="button">CLEAR</string>
+    <string name="button2">CALCULATOR</string>
+    <string name="textView3">Averge Speed (km/h)</string>
+    <string name="edt1">Enter distance (meter)</string>
+</resources>
